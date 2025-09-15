@@ -10,5 +10,3 @@ Tiny, Small, Base, and Large variants
 - **Inference Tools**: Single image and batch prediction with benchmarking
 - **Professional Code**: Well-documented, modular, and extensible
 
-## 📋 Requirements
-
